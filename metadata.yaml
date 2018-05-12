@@ -1,0 +1,31 @@
+_repo: The-South-WestBy-a-Yankee.-In-Two-Volumes.-Volume-2_35156
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingraham, J. H. (Joseph Holt)
+    alias: Ingraham, Joseph Holt
+    birthdate: 1809
+    deathdate: 1860
+    gutenberg_agent_id: '37483'
+    url: http://www.gutenberg.org/2009/agents/37483
+description: ''
+gutenberg_issued: '2011-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southwest, Old -- Social life and customs'
+- !lcc 'F396'
+- !lcsh 'Mississippi -- Description and travel'
+- !lcsh 'Natchez (Miss.) -- Description and travel'
+- !lcsh 'Southwest, Old -- Description and travel'
+- !lcsh 'New Orleans (La.) -- Description and travel'
+title: The South-West, by a Yankee. In Two Volumes. Volume 2
+url: http://www.gutenberg.org/ebooks/35156
